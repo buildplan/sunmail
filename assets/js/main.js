@@ -31,14 +31,20 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
+							'images/00.jpg': 'center',
+							'images/0.jpg': 'center',
+							'images/11.jpg': 'center',
 							'images/1.jpg': 'center',
 							'images/2.jpg': 'center',
-                            'images/3.jpg': 'center',
-                            'images/4.jpg': 'center',
-                            'images/5.jpg': 'center',
-                            'images/6.jpg': 'center',
-							'images/7.jpg': 'center'
-						},
+							'images/21.jpg': 'center',
+                            				'images/3.jpg': 'center',
+                            				'images/4.jpg': 'center',
+                            				'images/5.jpg': 'center',
+                            				'images/6.jpg': 'center',
+							'images/55.jpg': 'center',
+							'images/7.jpg': 'center',
+							'images/77.jpg': 'center'
+							},
 
 					// Delay.
 						delay: 6000
